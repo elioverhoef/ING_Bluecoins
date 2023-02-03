@@ -8,7 +8,7 @@
     <img src="images/logo.png" alt="Logo" height="80">
   </a>
 
-<h3 align="center">ING Converter: CSV to Bluecoins</h3>
+<h3 align="center">ING converter for Bluecoins</h3>
 
   <p align="center">
     This ING tool is used to easily import all ING transactions into the Bluecoins finance app.
@@ -22,7 +22,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-All you need is an account at ING, and a phone with the Bluecoins app.
+All you need is an account at ING, and a phone with the [Bluecoins app](play.google.com/store/apps/details?id=com.rammigsoftware.bluecoins).
 
 ### Installation
 
@@ -33,7 +33,7 @@ All you need is an account at ING, and a phone with the Bluecoins app.
 2. Download a CSV file of all your transactions from ING. Make sure you choose the option where the CSV file is separated by the character ';'.
 3. Place the file in the same folder as 'Convert.exe' from the repo.
 4. Run 'Convert.exe'. This will generate the output.csv file.
-5. Copy the output.csv file to your phone, and import it in the data settings of the Bluecoins app.
+5. Copy the output.csv file to your phone, and import it in the data settings of the [Bluecoins app](play.google.com/store/apps/details?id=com.rammigsoftware.bluecoins).
 
 Now all your transactions are imported to Bluecoins!
 
